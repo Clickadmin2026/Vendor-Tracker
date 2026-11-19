@@ -1,0 +1,2195 @@
+{
+ "v": [
+  {
+   "name": "45Drives",
+   "status": "Partner",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://urldefense.proofpoint.com/v2/url?u=https-3A__portal.45professional.com_register-3Ftoken-3D2798C293FF62F22B86FB34EB593DD2AC-26email-3Djulie.mah-40clicknetworks.net-26firstName-3DJulie-26lastName-3DMah&d=DwMFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=520Yd4nk8uB22tkGF-t7OCfHUKM5w9d0bRLY3ZxH5Qc&m=SmHWzrm8aXlFaevSTYKXDXXxPYVIJBfC1hxZVt2A-E3azDA5AuoKAEBC-Np7FYlf&s=e8mhpNngnzNwytTWintU2ZEbCDAbBG93z4k6XDenDU8&e=",
+    "Deal Reg": "https://portal.45professional.com/leads"
+   },
+   "competitors": [],
+   "distis": [
+    "Direct"
+   ],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "",
+   "vdate": "2026-10-08",
+   "vstate": "pending"
+  },
+  {
+   "name": "A10",
+   "status": "Reseller",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://channel.a10networks.com/English/",
+    "Program Guide": "https://www.a10networks.com/partners/become-a-partner/",
+    "Training": "https://channel.a10networks.com/prm/English/c/training-overview",
+    "Incentives": "https://channel.a10networks.com/prm/English/c/mdf-overview",
+    "Deal Reg": "https://channel.a10networks.com/English/Reseller/sfdc_deal_registration/register_deal.aspx",
+    "Sales Tools": "https://channel.a10networks.com/prm/English/s/assets?collectionId=11973&renderMode=Collection"
+   },
+   "competitors": [
+    "PAR Technology",
+    "NCR Voyix",
+    "Diebold Nixdorf",
+    "Corsair Gaming",
+    "Stratasys",
+    "Evolv Technologies",
+    "Cantaloupe",
+    "3D Systems",
+    "Mitek Systems",
+    "Kopin"
+   ],
+   "distis": [
+    "Arrow"
+   ],
+   "contacts": "CAM\nTony Jannak\ntjannak@a10networks.com\n847-778-4679\n2025Apr",
+   "engineers": [
+    "Antoine",
+    "Jody",
+    "Ryan"
+   ],
+   "vertical": "",
+   "distiContacts": "Escalation 1: cindy.currie@arrow.com",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner Portal link set; Program Guide link set; Status (empty) -> Reseller; Training link set\n08Oct2026 change: Click Engineer (empty) -> Antoine Jody Ryan (A10 Technical Associate certs); A10 portal: Partner Type Reseller",
+   "vdate": "2026-10-08",
+   "vstate": "success"
+  },
+  {
+   "name": "Abnormal",
+   "status": "Partner",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://partners.abnormal.ai/",
+    "Program Guide": "https://partners.abnormal.ai/px/digital-asset-management/admin/media-library?renderMode=Collection&q=partner%20program",
+    "Training": "https://partners.abnormal.ai/px/training-certification",
+    "Incentives": "https://abnormal.ai/partners",
+    "Deal Reg": "https://partners.abnormal.ai/px/leads/create",
+    "Sales Tools": "https://partners.abnormal.ai/px/digital-asset-management/admin/media-library?renderMode=Collection",
+    "Website": "https://www.abnormal.ai/"
+   },
+   "competitors": [
+    "Sublime Security",
+    "KnowBe4",
+    "DarkTrace",
+    "Check Point",
+    "ProofPoint",
+    "MimeCast",
+    "HoxHunt",
+    "NINJEO"
+   ],
+   "distis": [],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner Portal link updated; Program Guide link set",
+   "vdate": "2026-10-08",
+   "vstate": "login-issue"
+  },
+  {
+   "name": "Allot",
+   "status": "Silver",
+   "tier": 1,
+   "pid": "",
+   "vehicles": [
+    "CSPV - Network Security"
+   ],
+   "links": {
+    "Partner Portal": "https://partners.allot.com/User/Login",
+    "Program Guide": "https://partners.allot.com/sys/document/openpdfpreview/Allot%20Business%20Partner%20Program%202021.pdf?docid=7Ot0000000000SA00hY&nopreview=true&vck=638455337655304604",
+    "Training": "https://www.allot.com/support-services/become-an-allot-expert/training-courses/",
+    "Deal Reg": "https://partners.allot.com/Force/force__lead/create?recordTypeId=012200000001S1iAAE",
+    "Sales Tools": "https://partners.allot.com/playbook/sales",
+    "Battle Cards": "https://partners.allot.com/aspx/Sharepoint?kw=competitive",
+    "Misc. Link 1": "https://partners.allot.com/Force/Force__Lead/ListView/7Oo00000000001F00hY",
+    "Misc. Link 2": "https://partners.allot.com/Force/Force__Opportunity/ListView/7Oo00000000001V00hY"
+   },
+   "competitors": [
+    "Cisco",
+    "Exinda",
+    "Riverbed",
+    "Citrix",
+    "F5",
+    "SonicWall"
+   ],
+   "distis": [
+    "Arrow"
+   ],
+   "contacts": "Steve Smith left the company - now it’s the Telco person out of Toronto.\n\nNoldin Baez \nSales Engineer                                              nbaez@allot.com \n978-397-1956",
+   "engineers": [
+    "Antoine",
+    "Arjun"
+   ],
+   "vertical": "NetOps",
+   "distiContacts": "Disti Contact: secsalesca@tdsynnex.com\nEscalation 1: Sherianne.Forrester@tdsynnex.com\nEscalation 2: charles-andre.gladu@tdsynnex.com",
+   "growth": "",
+   "notes": "I am having a call with Steve this week.   Need our status, certification acheivements / requirements, revenue achieved.\nAD 20240717 meeting with Noldin/Steve to go overy this\n08Oct2026 change: Partner Portal link updated; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "login-issue"
+  },
+  {
+   "name": "Arctic Wolf",
+   "status": "Bronze",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://partners.arcticwolf.com/ArcticWolfPartnerPortal/s/login/?ec=301&startURL=%2FArcticWolfPartnerPortal%2Fs%2F",
+    "Program Guide": "https://arcticwolf.com/partners/solution-providers/",
+    "Training": "https://partnertraining.arcticwolf.com/"
+   },
+   "competitors": [],
+   "distis": [],
+   "contacts": "",
+   "engineers": [
+    "Antoine"
+   ],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Program Guide link set; Training link set\n08Oct2026 change: Click Engineer (empty) -> Antoine (MDR/AASM/AVM/ASAT 101 complete); portal read, tier not displayed",
+   "vdate": "2026-10-08",
+   "vstate": "success"
+  },
+  {
+   "name": "Bitglass Inc.(ForcePoint)",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [
+    "CSPV - Infrastructure Security"
+   ],
+   "links": {
+    "Partner Portal": "https://support.forcepoint.com/s/login/",
+    "Program Guide": "https://www.forcepoint.com/partners/forcepoint-global-partner-program",
+    "Training": "https://education.forcepoint.com/account/Login"
+   },
+   "competitors": [
+    "Netskope",
+    "Proofpoint",
+    "Fortinet",
+    "CipherCloud",
+    "OverWatch ID",
+    "Aporeto",
+    "Illumio",
+    "Auth0",
+    "McAfee",
+    "SecureAuth",
+    "FireEye",
+    "A10 Networks",
+    "Inrupt",
+    "Seclore",
+    "Centrify",
+    "Zscaler",
+    "Cipherpoint"
+   ],
+   "distis": [
+    "Arrow"
+   ],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "Disti Contact:  a10sales@arrow.com \nEscalation 1: Brandon Gerling\nEscalation 2: Natasha Wickie",
+   "growth": "",
+   "notes": "08Oct2026 change: Partner Portal link set; Program Guide link set; Training link set\n19Oct2026 verified: Forcepoint Hub + Cyber Institute login OK; partner status Authorized",
+   "vdate": "2026-10-19",
+   "vstate": "success"
+  },
+  {
+   "name": "Broadcom (CA Technologies / Symantec / Carbon Back / VMWare)",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://partnerportal.broadcom.com/web/partner-portal",
+    "Program Guide": "https://partnerportal.broadcom.com/group/partner-portal/advantage-partner-program",
+    "Training": "https://partnerportal.broadcom.com/group/partner-portal/enablement-education"
+   },
+   "competitors": [
+    "CrowdStrike Falcon",
+    "Sophos Intercept X",
+    "Trend Micro",
+    "McAfee",
+    "SentinelOne",
+    "Microsoft Defender for Endpoint",
+    "Palo Alto Networks Cortex XDR",
+    "Check Point SandBlast",
+    "Fortinet FortiClient",
+    "Cisco Secure Endpoint"
+   ],
+   "distis": [],
+   "contacts": "Todd Miller\nStrategic Business Leader - North American/LATAM Distribution\nEnterprise Security Group\nBroadcom Software\n \nMobile: 502-939-9758\ntodd-tm.miller@broadcom.com",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "Disti Contact: secsalesca@tdsynnex.com\nEscalation 1: Sherianne.Forrester@tdsynnex.com\nEscalation 2: charles-andre.gladu@tdsynnex.com",
+   "growth": "",
+   "notes": "08Oct2026 change: Partner Portal link set; Program Guide link set; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "login-issue"
+  },
+  {
+   "name": "Check Point",
+   "status": "Premier",
+   "tier": 1,
+   "pid": "346046",
+   "vehicles": [
+    "CSPV ZSI:  Infrequently used but still valid.  (SISA replacing this - RFI response is due on April 17, 2026)",
+    "GCNAC:  NAC Service, DND is the primary client."
+   ],
+   "links": {
+    "Partner Portal": "https://usercenter.checkpoint.com/ucapps/partner-dashboard",
+    "Program Guide": "https://www.checkpoint.com/partners/",
+    "Training": "https://checkpointpartners.litmoseu.com/",
+    "Incentives": "https://www.checkpoint.com/partners/",
+    "Deal Reg": "https://usercenter.checkpoint.com/ucapps/deal-registration",
+    "Sales Tools": "https://community.checkpoint.com/t5/Partners/ct-p/partners",
+    "Battle Cards": "https://community.checkpoint.com/t5/Win-The-Competition/ct-p/win-the-competition",
+    "Marketing Campaigns": "https://usercenter.checkpoint.com/usercenter/portal/media-type/html/role/usercenterUser/page/default.psml/js_pane/SalesEnabelrsId?pageUrl=/p/campaign-central/",
+    "Website": "http://www.checkpoint.com/"
+   },
+   "competitors": [
+    "Palo Alto Networks (PANW)",
+    "Fortinet (FTNT)",
+    "Cisco Systems (CSCO)",
+    "Sophos",
+    "McAfee",
+    "Trend Micro",
+    "CrowdStrike",
+    "Juniper Networks",
+    "FireEye (now part of Trellix)",
+    "Symantec (Broadcom)"
+   ],
+   "distis": [
+    "Ingram Micro"
+   ],
+   "contacts": "Maria Perruzza,                            Channel Account Manager, mperruzz@checkpoint.com             416-268-3534\n\nMaryam Rezaee\nmaryamr@checkpoint.com\nOnt Gov AM",
+   "engineers": [
+    "Arjun",
+    "Antoine (Email Security Sales Specialist; ERM Sales + Technical Specialist)",
+    "Andrew"
+   ],
+   "vertical": "Security",
+   "distiContacts": "Disti Contact: Ottawa.Sales@ingrammicro.com\nEscalation 1: Braedan.moffat@ingrammicro.com\nEscalation 2: bertin.trudel@ingrammicro.com",
+   "growth": "Elite threshold reached ($9.8M) - request Elite upgrade; close Post-Sales gap (3 of 4, 4 free seats); CCSP CCSE 1 of 2, CCTE 0 of 2",
+   "notes": "Exception made for revenue compliance this year.  Jody and Arjun working on required certs.  Will have certification compliance within the next month.\nHarmony Mobile of interest\n08Oct2026 change: Incentives link set; Partner ID (empty) -> 346046; Partner Portal link updated; Program Guide link updated; Training link set\n08Oct2026 change: Growth Opportunity (empty) -> Elite threshold reached ($9.8M), close Post-Sales gap 3 of 4 (partner dashboard: Premier, Partner ID 346046, certification status Does Not Meet Requirements)\n08Oct2026 change: Click Engineer Arjun Antoine -> Arjun Antoine Andrew (Andrew Nimmo: 15 Check Point courses Feb2026, valid to Feb2028)\n23Oct2026 change: Click Engineer Antoine -> Antoine (Email Security Sales Specialist; ERM Sales + Technical Specialist, 12Oct2026; tier-level). Elite specializations: Workspace Email sales seat 1 of 2, Exposure Management seat 1 of 2; second person needed",
+   "vdate": "2026-10-08",
+   "vstate": "success"
+  },
+  {
+   "name": "Cisco",
+   "status": "Registered",
+   "tier": null,
+   "pid": "",
+   "vehicles": [
+    "CSPV - Infrastructure  - missing form"
+   ],
+   "links": {
+    "Partner Portal": "https://www.cisco.com/content/cdc/login.html?referer=/site/us/en/partners/index.html",
+    "Program Guide": "https://www.cisco.com/c/dam/en_us/partners/cisco-partner-program/cisco-360-partner-program-highlights.pdf",
+    "Training": "https://www.cisco.com/site/us/en/partners/tools-training/index.html",
+    "Deal Reg": "https://apps.cisco.com/ICW/PDR/deal",
+    "Sales Tools": "https://lpc.cisco.com/lpcng/current-price-list"
+   },
+   "competitors": [
+    "Network Operations:",
+    "Juniper Networks",
+    "Huawei",
+    "Fortinet",
+    "HPE Aruba",
+    "Extreme Networks",
+    "Arista Networks",
+    "Dell Technologies",
+    "VMware",
+    "NVIDIA",
+    "Cybersecurity:",
+    "Palo Alto Networks",
+    "Fortinet",
+    "Check Point Software Technologies",
+    "Sophos",
+    "Trend Micro",
+    "CrowdStrike",
+    "McAfee",
+    "Microsoft Defender",
+    "RSA Security",
+    "Rapid7"
+   ],
+   "distis": [
+    "Ingram Micro",
+    "TD SYNNEX"
+   ],
+   "contacts": "Debbie Dennis\nPartner Account Manager\ndedennis@cisco.com  \nTel: +1 408 894 6461",
+   "engineers": [
+    "Antoine (Black Belt Security Essentials Sales Stage 1 (Jul 2026); Black Belt Security Essentials Pre-Sales Stage 1 (Jun 2026); Black Belt XDR Pre-Sales Stage 2 (Jun 2026); Black Belt Secure Firewall Pre-Sales Stage 2 (Jul 2026); Black Belt Secure Firewall Deployment Stage 2 (Jun 2026); Black Belt Firewall Pre-Sales Stage 3 (Jun 2026); Black Belt AI Fundamentals Stage 1 (Sep 2025); Black Belt Environmental Sustainability Sales Stage 1 and Stage 2 (Oct 2025); Black Belt IoT Sales Stage 1 (Oct 2025); Black Belt Partner Advanced Support Stage 1 (Apr 2026); Black Belt Internet Infrastructure for Providers Sales Stage 1 (Jul 2025); Black Belt Internet Infrastructure for Enterprises Sales Stage 1 (Jul 2025); Black Belt Internet Infrastructure for Enterprises Sales Stage 2 (Jul 2025); Black Belt Security Essentials Deployment Stage 1 (Jul 2026); Black Belt Secure Firewall Deployment Stage 3 (Oct 2026) - Cisco 360 Security PVI"
+   ],
+   "vertical": "",
+   "distiContacts": "Disti Contact: secsalesca@tdsynnex.com\nEscalation 1: Sherianne.Forrester@tdsynnex.com\nEscalation 2: charles-andre.gladu@tdsynnex.com",
+   "growth": "",
+   "notes": "08Oct2026 change: Partner Portal link updated; Program Guide link updated; Training link set\n08Oct2026 change: Distributor (empty) -> Ingram Micro; TD SYNNEX (Canadian distributors, research); Cisco portal signed in, status not displayed (Cisco 360)\n20Oct2026 change: Click Engineer (empty) -> Antoine (Black Belt Security Essentials Sales Stage 1, tier-level, Cisco 360 Security PVI credit)\n21Oct2026 change: Click Engineer + Black Belt Security Essentials Pre-Sales Stage 1 (tier-level, Pre-Sales PVI credit). Remaining for Security tier: XDR Pre-Sales Stage 2, Secure Firewall Stages 2-3; CCNP Security (SCOR + SNCF) via hire; confirm PVI score in PXP\n21Oct2026 change: Click Engineer + Black Belt XDR Pre-Sales Stage 2 (tier-level, Pre-Sales PVI credit). Remaining for Security tier: Secure Firewall Stages 2-3; CCNP Security (SCOR + SNCF) via hire; confirm PVI score in PXP\n21Oct2026 change: Click Engineer + Black Belt Secure Firewall Pre-Sales Stage 2 (tier-level, Pre-Sales PVI credit). Remaining for Security tier: Secure Firewall Deployment Stage 2, Firewall Pre-Sales Stage 3 (dCloud lab); CCNP Security (SCOR + SNCF) via hire; confirm PVI score in PXP\n21Oct2026 change: Click Engineer + Black Belt Secure Firewall Deployment Stage 2 (tier-level, Pre-Sales PVI credit). Remaining for Security tier: Firewall Pre-Sales Stage 3 (dCloud lab); CCNP Security (SCOR + SNCF) via hire; confirm PVI score in PXP\n25Oct2026 change: Click Engineer + Black Belt Firewall Pre-Sales Stage 3 (Jun 2026), awarded 23Oct2026, Cisco 360 Security aligned\n25Oct2026 change: Click Engineer + Black Belt AI Fundamentals Stage 1 (Sep 2025), awarded 25Oct2026, Cisco 360 aligned (Stage 1 credit caveat)\n25Oct2026 change: Click Engineer + Black Belt Environmental Sustainability Sales Stage 1 and Stage 2 (Oct 2025), awarded 25Oct2026, toward Environmental Sustainability Specialization\n25Oct2026 change: Click Engineer + Black Belt IoT Sales Stage 1 (Oct 2025), awarded 25Oct2026, Cisco 360 aligned (Stage 1 credit caveat)\n25Oct2026 change: Click Engineer + Black Belt Partner Advanced Support Stage 1 (Apr 2026), awarded 25Oct2026, Cisco 360 aligned (Stage 1 credit caveat)\n25Oct2026 change: Click Engineer + Black Belt Internet Infrastructure for Providers Sales Stage 1 (Jul 2025) (series titled Enterprises Sales Stage 1), awarded 25Oct2026, Cisco 360 aligned (Stage 1 credit caveat)\n26Oct2026 change: Click Engineer + Black Belt Internet Infrastructure for Enterprises Sales Stage 1 (Jul 2025) (awarded by series titled Enterprises Sales Stage 2), awarded 26Oct2026, Cisco 360 aligned (Stage 1 credit caveat)\n27Oct2026 change: Click Engineer + Black Belt Internet Infrastructure for Enterprises Sales Stage 2 (Jul 2025) (awarded by series titled Enterprises Sales Stage 3), awarded 27Oct2026, Cisco 360 aligned\n27Oct2026 change: Click Engineer + Black Belt Security Essentials Deployment Stage 1 (Jul 2026), awarded 27Oct2026, Cisco 360 aligned (Security); prerequisite for Secure Firewall Deployment Stage 3 (Oct 2026)\n29Oct2026 change: Click Engineer + Black Belt Secure Firewall Deployment Stage 3 (Oct 2026), awarded 29Oct2026 (mission Black Belt FTD Stage 3 Challenge Lab 7.6 passed 100%, CTF SH2RQ4 100/100), Cisco 360 aligned (Security)",
+   "vdate": "2026-10-29",
+   "vstate": "success"
+  },
+  {
+   "name": "Claroty",
+   "status": "Registered",
+   "tier": null,
+   "pid": "",
+   "vehicles": [
+    "CSPV"
+   ],
+   "links": {
+    "Partner Portal": "https://portal.claroty.com/",
+    "Program Guide": "https://claroty.com/partners/channel-partners",
+    "Training": "https://portal.claroty.com/",
+    "Deal Reg": "https://portal.claroty.com/"
+   },
+   "competitors": [
+    "Armis",
+    "Forescout (including CyberMDX)",
+    "Palo Alto Networks",
+    "Microsoft",
+    "Ordr",
+    "Axonius",
+    "SCADAfence",
+    "Phosphorus",
+    "SecureLink",
+    "AlertEnterprise",
+    "Velta Technology"
+   ],
+   "distis": [
+    "TD SYNNEX"
+   ],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Program Guide link updated; Training link updated",
+   "vdate": "2026-10-08",
+   "vstate": "success"
+  },
+  {
+   "name": "Collibra",
+   "status": "Registered",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Program Guide": "https://www.collibra.com/partners/partner-program",
+    "Training": "https://university.collibra.com/pages/120/partners-home",
+    "Incentives": "https://www.collibra.com/partners/services-partners"
+   },
+   "competitors": [],
+   "distis": [],
+   "contacts": "Matt Malizia\nmatt.malizia@collibra.com",
+   "engineers": [
+    "Antoine"
+   ],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Program Guide link set; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "success"
+  },
+  {
+   "name": "DataLocker",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [
+    "CSPV -Infrastructure Security"
+   ],
+   "links": {
+    "Partner Portal": "https://partners.datalocker.com/login/",
+    "Program Guide": "https://partners.datalocker.com/",
+    "Incentives": "https://partners.datalocker.com/deal-registration/"
+   },
+   "competitors": [
+    "DeviceLock",
+    "Code Green Networks",
+    "Digital Guardian",
+    "InfoWatch",
+    "Forcepoint",
+    "FireEye",
+    "Apricorn",
+    "iStorage",
+    "Adallom",
+    "Kanguru"
+   ],
+   "distis": [
+    "TD SYNNEX"
+   ],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "Disti Contact: secsalesca@tdsynnex.com\nEscalation 1: Sherianne.Forrester@tdsynnex.com\nEscalation 2: charles-andre.gladu@tdsynnex.com",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner Portal link set; Program Guide link set\n08Oct2026 change: Distributor (empty) -> TD SYNNEX Canada (DataLocker reseller list)",
+   "vdate": "2026-10-08",
+   "vstate": "login-issue"
+  },
+  {
+   "name": "Dell",
+   "status": "Authorized",
+   "tier": 1,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://www.delltechnologies.com/partner/en-ca/auth/partner-portal.htm",
+    "Program Guide": "https://www.delltechnologies.com/partner/en-ca/auth/benefits-requirements.htm",
+    "Training": "https://www.delltechnologies.com/partner/en-ca/auth/benefits-requirements/training.htm",
+    "Incentives": "https://www.delltechnologies.com/assetlink/doc/en-ca/dell-partner-program-one-pager-en-dl1hxvg-original.pdf",
+    "Sales Tools": "https://www.delltechnologies.com/resources/en-ca/auth/products/storage/category.htm",
+    "Marketing Campaigns": "https://dell.ziftone.com/",
+    "Misc. Link 1": "https://dell.my.site.com/PartnerHub/s/",
+    "Misc. Link 2": "https://www.delltechnologies.com/resources/en-ca/auth/products/servers/category.htm",
+    "Website": "http://www.dell.com/"
+   },
+   "competitors": [
+    "Storage:",
+    "Hewlett Packard Enterprise (HPE)",
+    "NetApp",
+    "Pure Storage",
+    "IBM",
+    "Hitachi Vantara",
+    "Huawei",
+    "Lenovo",
+    "Google Cloud Storage",
+    "AWS Storage Gateway",
+    "Microsoft Azure Storage",
+    "Servers:",
+    "Hewlett Packard Enterprise (HPE)",
+    "IBM",
+    "Cisco Systems",
+    "Lenovo",
+    "Huawei",
+    "Oracle",
+    "Fujitsu",
+    "Supermicro",
+    "AWS (Amazon Web Services)",
+    "Microsoft Azure"
+   ],
+   "distis": [
+    "Ingram Micro",
+    "Direct"
+   ],
+   "contacts": "Maher Hajjar,                                         ISG CAM,           maher.hajjar@dell.com,                          647-833-3481                                 Chelsea Snead,                                                   CPAM,           chelsea.martin@dell.com,               508-259-8065",
+   "engineers": [
+    "Jon"
+   ],
+   "vertical": "Security / Data Center",
+   "distiContacts": "Disti Contact: Ottawa.Sales@ingrammicro.com\nEscalation 1: Braedan.moffat@ingrammicro.com\nEscalation 2: bertin.trudel@ingrammicro.com",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Program Guide link updated; Training link set\n08Oct2026 note: Dell portal account 'Click Networks Inc. FEDERAL, CA - Solution Provider'; tier not displayed (list says Authorized, Dell tab says Gold); Dell moving partners to new Enterprise Platform in phases",
+   "vdate": "2026-10-08",
+   "vstate": "success"
+  },
+  {
+   "name": "Digicert",
+   "status": "Reseller",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://partners.digicert.com/English/",
+    "Program Guide": "https://www.digicert.com/partners/reseller-program",
+    "Training": "https://learn.digicert.com/",
+    "Incentives": "https://www.digicert.com/partners/reseller-program"
+   },
+   "competitors": [],
+   "distis": [
+    "TD SYNNEX"
+   ],
+   "contacts": "Scott Mellegaard\nDirector, Strategic Alliances (MSSP|Hyperscalers)\nm: 602.214.4515\nscott.mellegaard@digicert.com",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner Portal link set; Program Guide link set; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "login-issue"
+  },
+  {
+   "name": "DTEX",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://dtexsystems.channeltivity.com/Login",
+    "Program Guide": "https://www.dtex.ai/partners/channel-partners/"
+   },
+   "competitors": [],
+   "distis": [],
+   "contacts": "Curtis Nield\nRVP, Canada & Strategic US Accounts\n613.986.2878 \ncurt.nield@dtexsystems.com\n\nBrad Andersen\nChannel Engineering Lead\nM: +1-512-574-0465\nbrad.andersen@dtexsystems.com \n\nPhil Waugh\nDirector Channel, Central\n630.596.7975\nphil.waugh@dtexsystems.com",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Partner Portal link set; Program Guide link set",
+   "vdate": "2026-10-08",
+   "vstate": "login-issue"
+  },
+  {
+   "name": "EfficientIP",
+   "status": "Registered",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://my.efficientip.com/",
+    "Program Guide": "https://efficientip.com/partner-program/",
+    "Training": "https://efficientip.com/support-services/training/",
+    "Incentives": "https://efficientip.com/partner-program/"
+   },
+   "competitors": [
+    "Bluecat",
+    "Infoblox"
+   ],
+   "distis": [],
+   "contacts": "Dennis Borin\nAccount Executive - Canada\nEfficientIP Canada Ltd. \ndennis.borin@efficientip.com\n416.908.4825",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "Disti Contact: secsalesca@tdsynnex.com\nEscalation 1: Sherianne.Forrester@tdsynnex.com\nEscalation 2: charles-andre.gladu@tdsynnex.com",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner Portal link set; Program Guide link set; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "pending"
+  },
+  {
+   "name": "Elastic",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://partners.elastic.co/English/Partner/home.aspx",
+    "Program Guide": "https://www.elastic.co/partners/become-a-partner",
+    "Training": "https://www.elastic.co/training",
+    "Deal Reg": "https://partners.elastic.co/English/Partner/sfdc_partner_registration/register_deal.aspx",
+    "Sales Tools": "https://partners.elastic.co/prm/English/s/assets?collectionId=10092&renderMode=Collection",
+    "Battle Cards": "https://partners.elastic.co/prm/English/s/assets?collectionId=43988&renderMode=Collection",
+    "Marketing Campaigns": "https://partners.elastic.co/prm/English/c/new-marketing-page",
+    "Misc. Link 1": "https://partners.elastic.co/prm/English/c/new-partner-scorecard",
+    "Website": "http://www.elastic.co/"
+   },
+   "competitors": [],
+   "distis": [
+    "Direct"
+   ],
+   "contacts": "",
+   "engineers": [
+    "Jody",
+    "Arjun",
+    "Antoine"
+   ],
+   "vertical": "Security, Visibility, Other",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Program Guide link updated; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "login-issue"
+  },
+  {
+   "name": "Everfox (ForcePoint Federal)",
+   "status": "Silver",
+   "tier": 2,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://everfox.my.site.com/partners/s/",
+    "Program Guide": "https://www.everfox.com/partners/",
+    "Training": "https://everfox.my.site.com/partners/s/",
+    "Incentives": "https://www.everfox.com/partners/"
+   },
+   "competitors": [],
+   "distis": [],
+   "contacts": "Jamie Hall\nEverfox (formerly Forcepoint Federal)\nJhall@everfox.com\n703.615.7071",
+   "engineers": [
+    "Jody",
+    "Arjun",
+    "Antoine"
+   ],
+   "vertical": "Security",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "Sales Director:\t\nJeff Puffenberg\t\n540-454-4207\t\nJeffrey.Puffenberger@everfox.com\n\nStacey Winn\nInternational BD & Capture\nSwinn@everfox.com\n(703) 403-4160\nNational Government Canada\n08Oct2026 change: Incentives link set; Partner Portal link updated; Program Guide link updated; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "login-issue"
+  },
+  {
+   "name": "Exabeam",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [
+    "CSPV - Infrastructure Security"
+   ],
+   "links": {
+    "Partner Portal": "https://partners.exabeam.com/",
+    "Program Guide": "https://www.exabeam.com/partner-overview/",
+    "Training": "https://www.exabeam.com/support-and-services/education-and-training/",
+    "Incentives": "https://www.exabeam.com/partner-overview/"
+   },
+   "competitors": [
+    "IBM QRadar SIEM",
+    "Datadog",
+    "Splunk Enterprise",
+    "Microsoft",
+    "Rapid7",
+    "Securonix",
+    "Gurucul",
+    "Imperva Web Application Firewall (WAF) Gateway",
+    "Microsoft Identity Manager (MIM)",
+    "IBM Security Privileged Identity Manager"
+   ],
+   "distis": [],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner Portal link set; Program Guide link set; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "pending"
+  },
+  {
+   "name": "Extreme Networks",
+   "status": "Registered",
+   "tier": null,
+   "pid": "",
+   "vehicles": [
+    "CSPV - Infrastructure and Network Security",
+    "OECM"
+   ],
+   "links": {
+    "Partner Portal": "https://extremesaas.my.site.com/partnersite/s/",
+    "Program Guide": "https://www.extremenetworks.com/partners/resellers",
+    "Training": "https://www.extremenetworks.com/support/training",
+    "Incentives": "https://www.extremenetworks.com/resources/blogs/introducing-extreme-partner-first",
+    "Deal Reg": "https://extreme-networks.my.site.com/ExtrDealRegHome",
+    "Sales Tools": "https://extremenetworks.webinfinity.com/explore/2189782",
+    "Battle Cards": "https://extremenetworks.webinfinity.com/content/2296807?assetComponentId=8661",
+    "Marketing Campaigns": "https://extremenetworks.webinfinity.com/explore/2189782?popupstate=%7B%22state%22:%22app.interest%22,%22srefParams%22:%7B%22languageCode%22:%22en-US%22,%22source%22:3,%22sourceId%22:2194833,%22interestId%22:1708865,%22assetComponentId%22:1712302%7D%7D"
+   },
+   "competitors": [
+    "Cisco Systems",
+    "Juniper Networks",
+    "Arista Networks",
+    "HPE (Aruba)",
+    "Dell Technologies",
+    "Huawei",
+    "Broadcom (VMware)",
+    "NETGEAR"
+   ],
+   "distis": [
+    "TD SYNNEX"
+   ],
+   "contacts": "Navnita Evans\nChannel Leader, \nnaevans@extremenetworks.com \nMobile / 613.799.4354",
+   "engineers": [
+    "Jamie",
+    "Antoine (Extreme Certified Associate - Solutions Selling 2026, exp 09Oct2027)"
+   ],
+   "vertical": "",
+   "distiContacts": "Disti Contact: secsalesca@tdsynnex.com\nEscalation 1: Sherianne.Forrester@tdsynnex.com\nEscalation 2: charles-andre.gladu@tdsynnex.com",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner Portal link updated; Program Guide link updated; Training link set\n23Oct2026 change: Click Engineer Jamie -> Jamie, Antoine (Extreme Certified Associate - Solutions Selling 2026, 09Oct2026, exp 09Oct2027; tier-level). Remaining: Solutions Design 0/1 (program now Partner First, re-check)",
+   "vdate": "2026-10-08",
+   "vstate": "success"
+  },
+  {
+   "name": "Everbridge",
+   "status": "Registered",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://partners.everbridge.com/",
+    "Program Guide": "https://www.everbridge.com/partner-program/",
+    "Training": "https://www.everbridge.com/everbridge-university/"
+   },
+   "competitors": [],
+   "distis": [],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Partner Portal link set; Program Guide link set; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "pending"
+  },
+  {
+   "name": "f5",
+   "status": "Registered",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://partnercentral.f5.com/",
+    "Program Guide": "https://www.f5.com/partners",
+    "Training": "https://education.f5.com/",
+    "Incentives": "https://www.f5.com/partners"
+   },
+   "competitors": [],
+   "distis": [
+    "Ingram Micro",
+    "TD SYNNEX"
+   ],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "Disti Contact: secsalesca@tdsynnex.com\nEscalation 1: Sherianne.Forrester@tdsynnex.com\nEscalation 2: charles-andre.gladu@tdsynnex.com",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner Portal link set; Program Guide link set; Training link set\n08Oct2026 change: Distributor (empty) -> Ingram Micro (F5 locator, Canada)",
+   "vdate": "2026-10-08",
+   "vstate": "login-issue"
+  },
+  {
+   "name": "FlashPoint",
+   "status": "Registered",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://flashpoint.channeltivity.com/Home",
+    "Program Guide": "https://flashpoint.io/resources/partners/",
+    "Training": "https://flashpoint.channeltivity.com/Training/Courses",
+    "Incentives": "https://flashpoint.io/resources/partners/",
+    "Deal Reg": "https://flashpoint.channeltivity.com/DealReg/Deals",
+    "Sales Tools": "https://flashpoint.channeltivity.com/Library/1",
+    "Battle Cards": "https://flashpoint.channeltivity.com/Library/1"
+   },
+   "competitors": [],
+   "distis": [],
+   "contacts": "Julie Hillson (primary), Channel Sales Manager, jhillson@flashpoint-intel.com",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner Portal link updated; Program Guide link set; Vendor Contacts (empty) -> Julie Hillson (primary), Channel Sales Manager, jhillson@flashpoint-intel.com",
+   "vdate": "2026-10-08",
+   "vstate": "success"
+  },
+  {
+   "name": "Fortinet",
+   "status": "Advocate",
+   "tier": 1,
+   "pid": "",
+   "vehicles": [
+    "CSPV - Infrastructure Security"
+   ],
+   "links": {
+    "Partner Portal": "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "Program Guide": "https://www.fortinet.com/partners/partner-program/become-a-fortinet-partner",
+    "Training": "https://training.fortinet.com/",
+    "Incentives": "https://partnerportal.fortinet.com/prm/English/c/Fortirewards_Canada",
+    "Marketing Campaigns": "https://partnerportal.fortinet.com/prm/English/s/assets?collectionId=1254&renderMode=Collection",
+    "Website": "http://www.fortinet.com/"
+   },
+   "competitors": [
+    "Cisco Systems",
+    "Palo Alto Networks",
+    "Check Point Software Technologies",
+    "Juniper Networks",
+    "Sophos",
+    "SonicWall",
+    "Barracuda Networks",
+    "WatchGuard",
+    "Forcepoint",
+    "Huawei",
+    "F5 Networks",
+    "Broadcom (VMware)"
+   ],
+   "distis": [
+    "Ingram Micro"
+   ],
+   "contacts": "Rob Moore,                                    Channel Account Manager   rmoore@fortinet.com                        613-292-3101 \n     \nJason Terpstra  Jasonterpstra@fortinet.com\n613-314-3793",
+   "engineers": [
+    "Arjun",
+    "Antoine"
+   ],
+   "vertical": "Security",
+   "distiContacts": "Disti Contact: Fortinet Canada Licensing\nEscalation 1: Saneisha Green\nEscalation 2: Braedan.moffat@ingrammicro.com",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Program Guide link updated; Training link set\n08Oct2026 note: Engage Hub shows Advocate, Integrator; FortiCloud login migration pending (one-time opt-in on partner portal)",
+   "vdate": "2026-10-08",
+   "vstate": "success"
+  },
+  {
+   "name": "Forescout",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://forescout.my.site.com/support/CP_CommunityLogin",
+    "Program Guide": "https://www.forescout.com/partners/resellers/",
+    "Training": "https://www.forescout.com/support-hub/training-academy/"
+   },
+   "competitors": [
+    "Cisco ISE",
+    "Arube ClearPass"
+   ],
+   "distis": [],
+   "contacts": "Dan Guyon\nChannel Account Manager\n647-985-8097\nDan.Guyon@forescout.com",
+   "engineers": [
+    "Jules",
+    "Antoine (FSCA exp 07Sep2029; Accredited Engineer 2026 exp 07Sep2028; Sales Accreditation 2025 exp 09Sep2028)"
+   ],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Partner Portal link set; Program Guide link set; Training link set\n08Oct2026 change: Click Engineer Jules -> Jules Antoine (FSCA to 11Sep2029; Accredited Engineer + Sales Accreditation 2025 to 10Sep2028); portal read, tier not displayed\n23Oct2026 change: Click Engineer Antoine -> Antoine (FSCA, Accredited Engineer 2026, Sales Accreditation 2025; tier-level)\n23Oct2026 change: Click Engineer += expiry per Forescout Academy (read 22Oct2026): FSCA 07Sep2029, Accredited Engineer 07Sep2028, Sales Accreditation 09Sep2028 (replaces 11Sep2029 / 10Sep2028 above)",
+   "vdate": "2026-10-08",
+   "vstate": "success"
+  },
+  {
+   "name": "GFI Software",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [
+    "CSPV -Infrastructure Security"
+   ],
+   "links": {
+    "Partner Portal": "https://partners.gfi.com/",
+    "Program Guide": "https://gfi.ai/partners/partner-program"
+   },
+   "competitors": [
+    "NinjaRMM",
+    "WatchGuard Technologies",
+    "ZyXEL Communications",
+    "NIKSUN",
+    "OPSWAT",
+    "BlueVoyant",
+    "Technologent",
+    "ERP Analysts",
+    "Orbis",
+    "SNP Schneider",
+    "Plex"
+   ],
+   "distis": [
+    "TD SYNNEX"
+   ],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "Disti Contact: secsalesca@tdsynnex.com\nEscalation 1: Sherianne.Forrester@tdsynnex.com\nEscalation 2: charles-andre.gladu@tdsynnex.com",
+   "growth": "",
+   "notes": "08Oct2026 change: Partner Portal link set; Program Guide link set",
+   "vdate": "2026-10-08",
+   "vstate": "pending"
+  },
+  {
+   "name": "Hitachi",
+   "status": "Member",
+   "tier": null,
+   "pid": "",
+   "vehicles": [
+    "PISA"
+   ],
+   "links": {
+    "Partner Portal": "https://partnerportal.hitachivantara.com/s/",
+    "Program Guide": "https://www.hitachivantara.com/en-us/partners/partner-ecosystem",
+    "Training": "https://www.hitachivantara.com/en-us/services/learning/training"
+   },
+   "competitors": [],
+   "distis": [
+    "TD SYNNEX"
+   ],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "Disti Contact: secsalesca@tdsynnex.com\nEscalation 1: Sherianne.Forrester@tdsynnex.com\nEscalation 2: charles-andre.gladu@tdsynnex.com",
+   "growth": "",
+   "notes": "08Oct2026 change: Partner Portal link set; Program Guide link set; Status Partner -> Member; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "success"
+  },
+  {
+   "name": "HPE (Aruba)",
+   "status": "",
+   "tier": 1,
+   "pid": "",
+   "vehicles": [
+    "CSPV - Network Security",
+    "PISA 1.0"
+   ],
+   "links": {
+    "Partner Portal": "https://partner.hpe.com/web/prp",
+    "Marketing Campaigns": "https://partner.hpe.com/group/prp/marketing",
+    "Website": "http://www.arubanetworks.com/"
+   },
+   "competitors": [
+    "Dell Technologies",
+    "IBM",
+    "Oracle",
+    "Lenovo",
+    "NetApp",
+    "Broadcom (VMware)",
+    "Microsoft",
+    "Nutanix",
+    "Supermicro",
+    "Hitachi Vantara"
+   ],
+   "distis": [
+    "Ingram Micro"
+   ],
+   "contacts": "Geoff Sibbitt\nPartner Business Manager\ngeoff.sibbitt@hpe.com \n\nAmine Senjaj\nData Services & Storage Sales Specialist\namine.senjaj@hpe.com",
+   "engineers": [
+    "Arjun",
+    "Antoine"
+   ],
+   "vertical": "Security",
+   "distiContacts": "Disti Contact: secsalesca@tdsynnex.com\nEscalation 1: Sherianne.Forrester@tdsynnex.com\nEscalation 2: charles-andre.gladu@tdsynnex.com",
+   "growth": "",
+   "notes": "Renewal issues.  Need to get clearer understanding of renewal process and how to ensure things go smoother in the future (GNAC).   HPE PARTY ID:  1000763404\n\nJuniper Info:  \n - Partner Type: VALUE ADDED RESELLER (VAR)\n - Juniper Partner VAR ID: 6775-7832\n19Oct2026 verified: HPE Partner Portal + Sales Pro login OK; T2 Solution Provider",
+   "vdate": "2026-10-19",
+   "vstate": "success"
+  },
+  {
+   "name": "Infosec Global Inc.",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [
+    "CSPV -Infrastructure Security"
+   ],
+   "links": {
+    "Partner Portal": "https://partners.keyfactor.com/",
+    "Program Guide": "https://www.keyfactor.com/wp-content/uploads/KEYFACTOR-GLOBAL-PARTNER-PROGRAM.pdf",
+    "Training": "https://training.keyfactor.com/",
+    "Incentives": "https://www.keyfactor.com/wp-content/uploads/KEYFACTOR-GLOBAL-PARTNER-PROGRAM.pdf"
+   },
+   "competitors": [
+    "ThinkLP",
+    "TEAM T5",
+    "Atakama",
+    "Array Networks",
+    "Qualys",
+    "DeepSurface Security",
+    "Orca Security",
+    "Axonius"
+   ],
+   "distis": [],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner Portal link set; Program Guide link set; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "pending"
+  },
+  {
+   "name": "Juniper",
+   "status": "Reseller",
+   "tier": null,
+   "pid": "6775-7832",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://partners.juniper.net/partnercenter/index.page",
+    "Program Guide": "https://www.juniper.net/content/dam/www/assets/additional-resources/us/en/juniper-partner-advantage-program-guide.pdf",
+    "Training": "https://jpartnertraining.juniper.net/",
+    "Incentives": "https://partners.juniper.net/partnercenter/programs-promotions/programs/performance-incentives/"
+   },
+   "competitors": [],
+   "distis": [
+    "Ingram Micro",
+    "Exclusive Networks"
+   ],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner Portal link updated; Program Guide link set; Training link set\n08Oct2026 change: Distributor (empty) -> Exclusive Networks; login lacks Partner Center access (julie to verify); HPE Partner Ready Vantage enrollment now required",
+   "vdate": "2026-10-08",
+   "vstate": "julie to verify"
+  },
+  {
+   "name": "Keysight",
+   "status": "Elite",
+   "tier": 1,
+   "pid": "",
+   "vehicles": [
+    "CSPV - Network Security",
+    "OECM"
+   ],
+   "links": {
+    "Partner Portal": "https://prm.keysight.com/partners/",
+    "Program Guide": "https://nsspartners.keysight.com/prm/English/s/assets?collectionId=12030&renderMode=Collection",
+    "Deal Reg": "https://nsspartners.keysight.com/prm/English/s/add-deal",
+    "Sales Tools": "https://nsspartners.keysight.com/prm/English/s/assets?collectionId=8222&renderMode=Collection",
+    "Marketing Campaigns": "https://nsspartners.keysight.com/prm/English/s/assets?collectionId=34613&renderMode=Collection"
+   },
+   "competitors": [
+    "Teledyne Technologies",
+    "Teradyne",
+    "Fortive",
+    "RFHIC",
+    "Rohde & Schwarz",
+    "National Instruments",
+    "Anritsu",
+    "Advantest",
+    "Yokogawa Electric",
+    "VIAVI Solutions"
+   ],
+   "distis": [
+    "Arrow"
+   ],
+   "contacts": "Pouyan Rostam, pouyan.rostam@keysight.com,      613-410-9762",
+   "engineers": [
+    "Antoine (Advanced Certification L2: Threat Simulator; NPB & Taps Out-of-Band; NPB & Bypass Inline; exp 20Sep2028)",
+    "Arjun"
+   ],
+   "vertical": "NetOps",
+   "distiContacts": "Disti Contact: ecssecurityproducts@arrow.com \nEscalation 1: cindy.currie@arrow.com\nEscalation 2: natasha.wickie@arrow.com",
+   "growth": "",
+   "notes": "No requirements in place for us in 2024\n08Oct2026 change: Partner Portal link updated\n08Oct2026 note: new portal prm.keysight.com; MDF Oct25-Oct26 $2,000 approved vs $23,199 claimed - check with Pouyan\n23Oct2026 change: Click Engineer Antoine -> Antoine (3x Advanced Certification L2, 20Sep2026; tier-level, Elite) Expiry 20Sep2028.",
+   "vdate": "2026-10-08",
+   "vstate": "success"
+  },
+  {
+   "name": "Lookout",
+   "status": "Registered",
+   "tier": null,
+   "pid": "",
+   "vehicles": [
+    "CSPV"
+   ],
+   "links": {
+    "Partner Portal": "https://partners.lookout.com/",
+    "Program Guide": "https://www.lookout.com/partners/resellers-and-distributers",
+    "Incentives": "https://www.lookout.com/partners/resellers-and-distributers"
+   },
+   "competitors": [
+    "Checkpoint Harmony Mobile"
+   ],
+   "distis": [
+    "Ingram Micro"
+   ],
+   "contacts": "Scott Lees\nSales Director, Canada\nscott.lees@lookout.com | 416-560-5796\n\nalain.marcil@lookout.com - Engineer",
+   "engineers": [],
+   "vertical": "Mobile Threat Detection",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner Portal link set; Program Guide link set",
+   "vdate": "2026-10-08",
+   "vstate": "login-issue"
+  },
+  {
+   "name": "NetApp",
+   "status": "Approved",
+   "tier": null,
+   "pid": "",
+   "vehicles": [
+    "CSPV -Infrastructure and Network Security",
+    "-  PISA"
+   ],
+   "links": {
+    "Partner Portal": "https://partnerhub.netapp.com/s/home-marketing",
+    "Program Guide": "https://netorg564360.sharepoint.com/:b:/s/ClickNetworksCollaboration/EepjSRr2Z2VKr7oKwLHNrN4BKgh2iNQqNeenRFvPVqR6JA?e=iji8uv",
+    "Training": "https://learningcenter.netapp.com/",
+    "Deal Reg": "https://partnerhub.netapp.com/s/incentiveregistration/IncentiveRegistration__c/Default",
+    "Sales Tools": "https://partnerhub.netapp.com/s/sales-resources-and-tools",
+    "Battle Cards": "https://partnerhub.netapp.com/s/collections",
+    "Marketing Campaigns": "https://partnerhub.netapp.com/s/marketing-resources-and-tools",
+    "Website": "https://www.netapp.com/"
+   },
+   "competitors": [
+    "Dell Technologies",
+    "Hewlett Packard Enterprise (HPE)",
+    "IBM",
+    "Hitachi Vantara",
+    "Pure Storage",
+    "Oracle",
+    "Huawei",
+    "Fujitsu",
+    "Lenovo",
+    "Synology",
+    "Infinidat",
+    "DDN"
+   ],
+   "distis": [
+    "Arrow"
+   ],
+   "contacts": "Ryan McClave\nNational Channel Manager\nryan.mcclave@netapp.com\n613-327-5583",
+   "engineers": [
+    "Jamie"
+   ],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "julie to verify"
+  },
+  {
+   "name": "Netbrain",
+   "status": "Gold",
+   "tier": 1,
+   "pid": "",
+   "vehicles": [
+    "CSPV - Infrastructure Security"
+   ],
+   "links": {
+    "Partner Portal": "https://partner.netbrain.com/",
+    "Program Guide": "https://partner.netbrain.com/playbook/netbrainpartnerprogram",
+    "Training": "https://www.netbrain.com/partner/certification-courses-for-partners/",
+    "Incentives": "https://www.netbrain.com/partner/",
+    "Deal Reg": "https://partner.netbraintech.com/force/Force__Deal_Registration__c/form/7Oa00000000002h00dz",
+    "Sales Tools": "https://partner.netbraintech.com/playbook/salestools",
+    "Battle Cards": "https://partner.netbraintech.com/playbook/salesprocessresource",
+    "Marketing Campaigns": "https://partner.netbraintech.com/playbook/marketingtools",
+    "Website": "http://www.netbraintech.com/"
+   },
+   "competitors": [
+    "SolarWinds Observability",
+    "AlgoSec Security Management Solution",
+    "ManageEngine Network Configuration Manager",
+    "Red Hat Ansible Automation Platform",
+    "BackBox",
+    "OpenText Network Automation",
+    "AppViewX ADC+",
+    "Cisco PI LMS (Legacy)",
+    "Dynatrace",
+    "LogicMonitor",
+    "Auvik",
+    "Datadog",
+    "Microsoft System Center"
+   ],
+   "distis": [
+    "Direct"
+   ],
+   "contacts": "Craig Curtis,                                          Sr. Enterprise Sales Executive, craig.curtis@netbraintech.com  978-503-9110",
+   "engineers": [
+    "Antoine",
+    "Arjun"
+   ],
+   "vertical": "NetOps",
+   "distiContacts": "Direct",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner Portal link updated; Program Guide link updated; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "login-issue"
+  },
+  {
+   "name": "NetSkope",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://partners.netskope.com/",
+    "Program Guide": "https://www.netskope.com/partners",
+    "Training": "https://www.netskope.com/training",
+    "Website": "https://www.netskope.com/"
+   },
+   "competitors": [
+    "Zscaler",
+    "Cloudflare",
+    "Palo Alto Networks",
+    "McAfee",
+    "Symantec (Broadcom)",
+    "Forcepoint",
+    "Cisco Systems",
+    "Microsoft Defender",
+    "Proofpoint",
+    "Trend Micro"
+   ],
+   "distis": [
+    "TD SYNNEX"
+   ],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "Disti Contact: secsalesca@tdsynnex.com\nEscalation 1: Sherianne.Forrester@tdsynnex.com\nEscalation 2: charles-andre.gladu@tdsynnex.com",
+   "growth": "",
+   "notes": "08Oct2026 change: Partner Portal link set; Program Guide link set; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "delisted"
+  },
+  {
+   "name": "NetWitness",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://partners.netwitness.com/",
+    "Program Guide": "https://www.netwitness.com/partner-with-us/",
+    "Training": "https://community.netwitness.com/s/training-catalog"
+   },
+   "competitors": [],
+   "distis": [],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Partner Portal link set; Program Guide link set; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "pending"
+  },
+  {
+   "name": "NetWrix",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {},
+   "competitors": [],
+   "distis": [
+    "Climb"
+   ],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "",
+   "vdate": null,
+   "vstate": "unchecked"
+  },
+  {
+   "name": "Okta",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://partnercommunity.okta.com/login",
+    "Program Guide": "https://www.okta.com/partners/",
+    "Training": "https://www.okta.com/services/training/"
+   },
+   "competitors": [
+    "Sailpoint",
+    "Opentext (NetIQ)",
+    "Oracle",
+    "IBM",
+    "Thales"
+   ],
+   "distis": [
+    "Ingram Micro"
+   ],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Partner Portal link set; Program Guide link set; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "login-issue"
+  },
+  {
+   "name": "Omnissa",
+   "status": "Approved",
+   "tier": null,
+   "pid": "61490320",
+   "vehicles": [
+    "SLSA"
+   ],
+   "links": {
+    "Partner Portal": "https://omnissa.my.site.com/partnerconnect/s/",
+    "Program Guide": "https://www.omnissa.com/partners/",
+    "Training": "https://www.omnissa.com/learning/",
+    "Incentives": "https://omnissa.my.site.com/partnerconnect/s/account-management?component=c%3APC_AdPlus"
+   },
+   "competitors": [],
+   "distis": [
+    "TD SYNNEX"
+   ],
+   "contacts": "",
+   "engineers": [
+    "Jules"
+   ],
+   "vertical": "",
+   "distiContacts": "Disti Contact: secsalesca@tdsynnex.com\nEscalation 1: Sherianne.Forrester@tdsynnex.com\nEscalation 2: charles-andre.gladu@tdsynnex.com",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner ID (empty) -> 61490320; Partner Portal link set; Program Guide link set; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "success"
+  },
+  {
+   "name": "Opengear",
+   "status": "Approved",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://partners.opengear.com/s/",
+    "Program Guide": "https://opengear.com/wp-content/uploads/2026/09/Americas-Reseller-Partner-Program-FY26.pdf",
+    "Training": "https://opengear.com/partner/",
+    "Incentives": "https://opengear.com/wp-content/uploads/2026/09/Americas-Reseller-Partner-Program-FY26.pdf"
+   },
+   "competitors": [],
+   "distis": [
+    "TD SYNNEX"
+   ],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner Portal link set; Program Guide link set; Training link set\n08Oct2026 change: Distributor (empty) -> TD SYNNEX Canada; new partner-portal registration submitted, awaiting approval",
+   "vdate": "2026-10-08",
+   "vstate": "login-issue"
+  },
+  {
+   "name": "Opentext (Micro Focus)",
+   "status": "Approved",
+   "tier": null,
+   "pid": "10690428",
+   "vehicles": [
+    "CSPV -Infrastructure Security"
+   ],
+   "links": {
+    "Partner Portal": "https://partners.opentext.com/",
+    "Program Guide": "https://www.opentext.com/partners/become-a-partner",
+    "Training": "https://learn.opentext.com/partners",
+    "Incentives": "https://www.opentext.com/partners/partner-referral",
+    "Sales Tools": "https://microfocus.my.site.com/s/content-library"
+   },
+   "competitors": [
+    "Oracle",
+    "Microsoft",
+    "ServiceNow",
+    "Splunk"
+   ],
+   "distis": [
+    "Arrow"
+   ],
+   "contacts": "Federal: \nEmma Gilfillan\nGovt Canada Enterprise Sales\nOpenText Cybersecurity\nMobile:\n343.542.2519\n\nGary J. Hogan\nDirector, Software Sales Canada\nITOM - ADM\n416-526-4279\n\nBlayde A. Watkin\nOpenText Canada Cybersecurity\nM: 416.459.5921\nbwatkin@opentext.com",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner Portal link updated; Program Guide link updated; Training link set\n08Oct2026 change: Distributor (empty) -> Arrow ECS Canada; login has no OpenText Partner Portal access (julie to verify)",
+   "vdate": "2026-10-08",
+   "vstate": "julie to verify"
+  },
+  {
+   "name": "Palo Alto",
+   "status": "Innovator",
+   "tier": 1,
+   "pid": "",
+   "vehicles": [
+    "CSPV - Infrastructure Security"
+   ],
+   "links": {
+    "Partner Portal": "https://www.paloaltonetworks.com/partners/nextwave-partner-portal",
+    "Program Guide": "https://www.paloaltonetworks.com/partners/nextwave-partner-portal/partner-program",
+    "Training": "https://learn.paloaltonetworks.com/learn",
+    "Incentives": "https://www.paloaltonetworks.com/content/dam/pan/en_US/partners/nextwave/marketing/nextwave-partner-interactive-guide.pdf",
+    "Deal Reg": "https://paloaltonetworks.my.site.com/NextWavePartnerProgram/s/newdealregistration",
+    "Sales Tools": "https://www.paloaltonetworks.com/partners/nextwave-partner-portal",
+    "Battle Cards": "https://www.paloaltonetworks.com/partners/nextwave-partner-portal",
+    "Marketing Campaigns": "https://partnercampaigns.paloaltonetworks.com/prm/English/s/assets?collectionId=41891&renderMode=Collection",
+    "Misc. Link 1": "https://www.paloaltonetworks.com/partners/nextwave-partner-portal/partner-program",
+    "Misc. Link 2": "https://paloaltonetworks.my.site.com/NextWavePartnerProgram/s/",
+    "Misc. Link 3": "https://www.paloaltonetworks.com/partners/nextwave-partner-portal/help-me-market/promotions/partner-perks"
+   },
+   "competitors": [
+    "Cisco Systems",
+    "Fortinet",
+    "Check Point Software Technologies",
+    "Juniper Networks",
+    "SonicWall",
+    "Barracuda Networks",
+    "Sophos",
+    "F5 Networks",
+    "Forcepoint",
+    "WatchGuard",
+    "Huawei",
+    "Microsoft"
+   ],
+   "distis": [
+    "Arrow",
+    "TD SYNNEX"
+   ],
+   "contacts": "James Warne,                              \nChannel Account Manager, \njwarne@paloaltonetworks.com \n514-594-5241                                                                                                                                                                                                                                     \nHicham Zair \nChannel Systems Engineer\nhzair@paloaltonetworks.com\nCell: +1 514.360.1849",
+   "engineers": [
+    "Arjun",
+    "Antoine"
+   ],
+   "vertical": "Security",
+   "distiContacts": "Disti Contact:  PANWca@arrow.com \nEscalation 1: karl.koehn@arrow.com\nEscalation 2: Jon Tierney,  JTierney@arrow.com",
+   "growth": "",
+   "notes": "Meeting March 12 to review. Require admin view.  Exam vouchers can be found on Palo Alto tab.\n08Oct2026 change: Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "julie to verify"
+  },
+  {
+   "name": "Radware",
+   "status": "Certified",
+   "tier": 1,
+   "pid": "",
+   "vehicles": [
+    "CSPV - Infrastructure Security",
+    "OECM"
+   ],
+   "links": {
+    "Partner Portal": "https://enablement.radware.com/",
+    "Program Guide": "https://cdn-radware.s3.amazonaws.com/Portals/Files/63/63ad3f7b-a8ea-4f13-a665-786c65a38048/1041-Radware-Partner-at-A-Glance-document-FINAL.pdf?AWSAccessKeyId=AKIAJ4WYGHVX2IPXR2QA&Expires=1710081256&Signature=YVqfzOqEt3%2FaXXpPCrC1clkme8A%3D",
+    "Training": "https://www.radware.com/training/",
+    "Deal Reg": "https://portals.radware.com/Partner/Home/Sales-Tools/Deal-Registration-Form/",
+    "Sales Tools": "https://cdn-radware.s3.amazonaws.com/Portals/Files/62/6212658d-9c1e-4049-864b-d4393ee12afb/Radware-Battle-Book-2023-Partner-Version-v2.pdf?AWSAccessKeyId=AKIAJ4WYGHVX2IPXR2QA&Expires=1709763370&Signature=mAy5QzaYqvHmFW0N%2BsMQMO%2B1zmw%3D",
+    "Battle Cards": "https://cdn-radware.s3.amazonaws.com/Portals/Files/62/6212658d-9c1e-4049-864b-d4393ee12afb/Radware-Battle-Book-2023-Partner-Version-v2.pdf?AWSAccessKeyId=AKIAJ4WYGHVX2IPXR2QA&Expires=1709763370&Signature=mAy5QzaYqvHmFW0N%2BsMQMO%2B1zmw%3D",
+    "Marketing Campaigns": "https://portals.radware.com/Partner/Home/Marketing/Campaigns/",
+    "Misc. Link 1": "https://cdn-radware.s3.amazonaws.com/Portals/Files/63/63ad3f7b-a8ea-4f13-a665-786c65a38048/1041-Radware-Partner-at-A-Glance-document-FINAL.pdf?AWSAccessKeyId=AKIAJ4WYGHVX2IPXR2QA&Expires=1710957713&Signature=DICRRo7RVW5RN%2BeYpXa1gheqa90%3D",
+    "Website": "http://www.radware.com/"
+   },
+   "competitors": [
+    "F5",
+    "Akamai",
+    "Cloudflare",
+    "Imperva",
+    "A10 Networks",
+    "Microsoft",
+    "Lumen",
+    "Nexusguard",
+    "Amazon Web Services (AWS)",
+    "Google",
+    "NETSCOUT SYSTEMS",
+    "Vercara",
+    "AT&T"
+   ],
+   "distis": [
+    "Arrow",
+    "TD SYNNEX"
+   ],
+   "contacts": "Tomasz Owczarek                       \nWestern Canada Account Manager \nTomasz.Owczarek@radware.com \n514-714-7268      \n                                                                                                                                                                                                                                                                                    Alan Klapper\nPartner Marketing Manager\nEmail: alan.klapper@radware.com\nPhone: +1.408.483.4226\n\nTim Nielsen\nCAM\nTim.Nielsen@radware.com",
+   "engineers": [
+    "Arjun",
+    "Antoine"
+   ],
+   "vertical": "Security",
+   "distiContacts": "Disti Contact: secsalesca@tdsynnex.com\nEscalation 1: Sherianne.Forrester@tdsynnex.com\nEscalation 2: charles-andre.gladu@tdsynnex.com",
+   "growth": "",
+   "notes": "We are being treated as Signature.  Channel Manager is waiting for more details for 2024 review.\n08Oct2026 change: Partner Portal link updated; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "julie to verify"
+  },
+  {
+   "name": "Redseal Inc.",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [
+    "CSPV - Infrastructure Security"
+   ],
+   "links": {
+    "Partner Portal": "https://redseal.my.site.com/s/login/",
+    "Program Guide": "https://www.redseal.net/files/PDFs/Fusion-Partnership-Overview.pdf"
+   },
+   "competitors": [
+    "Skybox Security",
+    "FireMon",
+    "AlgoSec",
+    "CloudBees",
+    "Cisco Vulnerability Management (formerly Kenna.VM)",
+    "Qualys VMDR",
+    "Resolver",
+    "Arctic Wolf",
+    "LogicMonitor",
+    "Atera"
+   ],
+   "distis": [],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Partner Portal link set; Program Guide link set",
+   "vdate": "2026-10-08",
+   "vstate": "pending"
+  },
+  {
+   "name": "Riverbed (Aternity)",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [
+    "CSPV - Network Security"
+   ],
+   "links": {
+    "Partner Portal": "https://partners.riverbed.com/landing-page",
+    "Program Guide": "https://www.riverbed.com/riverbed-partner-program/",
+    "Training": "https://education.riverbed.com/learn",
+    "Incentives": "https://www.riverbed.com/riverbed-partner-program/"
+   },
+   "competitors": [
+    "Nexthink",
+    "ControlUp",
+    "SysTrack",
+    "1E Platform",
+    "HP Proactive Insights",
+    "Dynatrace",
+    "AppDynamics",
+    "LogRocket",
+    "SolarWinds Observability"
+   ],
+   "distis": [],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner Portal link set; Program Guide link set; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "login-issue"
+  },
+  {
+   "name": "RSA",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://rsasecurity.my.site.com/partner",
+    "Program Guide": "https://www.rsa.com/wp-content/uploads/2025-rsa-partner-program-at-a-glance.pdf",
+    "Training": "https://rsasecurity.my.site.com/partner",
+    "Incentives": "https://www.rsa.com/partner/"
+   },
+   "competitors": [],
+   "distis": [],
+   "contacts": "Kim Donald <kim.donald@rsa.com>; Arnaud Angele; Patricia Henriques; anders.prokopowich@rsa.com",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner Portal link set; Program Guide link set; Training link set\n08Oct2026 change: Vendor Contacts (empty) -> RSA contacts moved here from the Ruckus row",
+   "vdate": "2026-10-08",
+   "vstate": "login-issue"
+  },
+  {
+   "name": "Ruckus Networks",
+   "status": "Registered Solution Provider (Compliant-Exception)",
+   "tier": null,
+   "pid": "SAP 50742749",
+   "vehicles": [
+    "OECM"
+   ],
+   "links": {
+    "Partner Portal": "https://partners.ruckuswireless.com/",
+    "Program Guide": "https://www.ruckusnetworks.com/partners/networking-partners/",
+    "Training": "https://www.ruckusnetworks.com/resources/training-and-certifications/",
+    "Incentives": "https://www.ruckusnetworks.com/partners/networking-partners/",
+    "Deal Reg": "https://www.commscope.com/globalassets/digizuite/941314-RUCKUS-Partner-Program-Deal-Registration-CO-114112-EN.pdf"
+   },
+   "competitors": [
+    "Cisco Meraki",
+    "Juniper Mist Wireless",
+    "Ubiquiti Networks",
+    "Extreme Networks",
+    "NETGEAR",
+    "Cambium Networks",
+    "Arista Networks",
+    "TP-Link",
+    "D-Link"
+   ],
+   "distis": [
+    "TD SYNNEX",
+    "Exclusive Networks"
+   ],
+   "contacts": "Paul Michalovic, Channel Manager / Account Owner (RUCKUS Partner Central)",
+   "engineers": [
+    "Jamie",
+    "Antoine (RAWD, RAICX, RCC exp 19Oct2029; RSP exp 20Oct2029; RAAER, RASER)"
+   ],
+   "vertical": "Networking",
+   "distiContacts": "Disti Contact: secsalesca@tdsynnex.com\nEscalation 1: Sherianne.Forrester@tdsynnex.com\nEscalation 2: charles-andre.gladu@tdsynnex.com",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Program Guide link updated; Training link set\n08Oct2026 change: Status (empty) -> Registered Solution Provider (Compliant-Exception); Partner ID (empty) -> SAP 50742749; Vendor Contacts RSA contacts moved to RSA row -> Paul Michalovic\n08Oct2026 change: Distributor (empty) -> TD SYNNEX Canada; Exclusive Networks Canada; MBSI WAV\n19Oct2026 change: Click Engineer Jamie -> Jamie, Antoine (RAWD, RAICX, RCC issued 19Oct2026, exp 19Oct2029)\n20Oct2026 change: Click Engineer += RSP (RSP 100 Exam - Routing and Switching Protocols Exam v4, 100%, completed 20Oct2026)\n23Oct2026 change: Click Engineer += RAAER, RASER (AE Ready + SE Ready accreditation exams, 15Oct2026; tier-level, Registered + Certified) Expiry added: RAWD, RAICX, RCC 19Oct2029; RSP 20Oct2029.",
+   "vdate": "2026-10-20",
+   "vstate": "success"
+  },
+  {
+   "name": "Sailpoint",
+   "status": "Partner",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://sailpoint.highspot.com/signin",
+    "Program Guide": "https://www.sailpoint.com/partners/become-partner",
+    "Training": "https://www.sailpoint.com/university",
+    "Website": "http://www.sailpoint.com/"
+   },
+   "competitors": [],
+   "distis": [],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "Identity",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Partner Portal link set; Program Guide link set; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "pending"
+  },
+  {
+   "name": "ScienceLogic",
+   "status": "Click Spirit  to GC",
+   "tier": 1,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://partner.sciencelogic.com/s/",
+    "Program Guide": "https://partners.sciencelogic.com/prm/English/s/assets?id=536364&renderMode=Collection",
+    "Training": "https://partner.sciencelogic.com/s/partner-enablement",
+    "Deal Reg": "https://partners.sciencelogic.com/English/Partner/SFDC/DealRegistration/Lead/Create",
+    "Sales Tools": "https://partners.sciencelogic.com/prm/English/s/assets?collectionId=72459&renderMode=Collection",
+    "Website": "http://www.sciencelogic.com/"
+   },
+   "competitors": [
+    "SolarWinds",
+    "SevOne",
+    "Dynatrace",
+    "LogicMonitor",
+    "Datadog",
+    "IBM Instana",
+    "AppDynamics (Cisco)",
+    "Microsoft System Center",
+    "New Relic",
+    "Splunk Enterprise"
+   ],
+   "distis": [
+    "Direct"
+   ],
+   "contacts": "Ruedi Hermann\nruedi.hermann@sciencelogic.com\nM: 450.464.8216\n\nSE: Joshua Ellsworth\nSales Engineer\njellsworth@sciencelogic.com",
+   "engineers": [
+    "Antoine",
+    "Arjun"
+   ],
+   "vertical": "NetOps",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "Deal reg link gives me a error message.  Appears it's my profile but need to check on this.\n08Oct2026 change: Partner Portal link updated; Training link set\n08Oct2026 note: partner portal shows COMING SOON only (support partnerportal@sciencelogic.com); Antoine has Skylar One Operator cert, Professional and Expert exams not yet sat",
+   "vdate": "2026-10-08",
+   "vstate": "success"
+  },
+  {
+   "name": "SentinelOne",
+   "status": "Silver",
+   "tier": 1,
+   "pid": "",
+   "vehicles": [
+    "CSPV - SEI"
+   ],
+   "links": {
+    "Partner Portal": "https://partners.sentinelone.com/px/dashboard",
+    "Program Guide": "https://partners.sentinelone.com/px/-/program-guide",
+    "Training": "https://partners.sentinelone.com/px/-/training-and-enablement",
+    "Incentives": "https://partners.sentinelone.com/px/-/partner-incentives",
+    "Deal Reg": "https://partners.sentinelone.com/prm/English/s/add-lead",
+    "Sales Tools": "https://partners.sentinelone.com/prm/English/s/assets?collectionId=31075&renderMode=Collection",
+    "Battle Cards": "https://partners.sentinelone.com/prm/English/s/assets?collectionId=31074&renderMode=Collection",
+    "Marketing Campaigns": "https://partners.sentinelone.com/prm/English/c/Channel_Marketing_Email_Campaigns"
+   },
+   "competitors": [
+    "CrowdStrike",
+    "Microsoft Defender",
+    "Sophos",
+    "McAfee",
+    "Trend Micro",
+    "Palo Alto Networks",
+    "Carbon Black (VMware)",
+    "Cynet",
+    "FireEye (Trellix)",
+    "Kaspersky"
+   ],
+   "distis": [
+    "Ingram Micro"
+   ],
+   "contacts": "Mike Gambarotto,\n Channel Account Manager, \nmike.gambarotto@sentinelone.co\n647 262 7872",
+   "engineers": [
+    "Arjun",
+    "Antoine (Sales + Pre-Sales/Tech Accreditation Fundamentals exp 09Oct2027; Sales + Pre-Sales/Tech Accreditation Applied exp 12Oct2027)"
+   ],
+   "vertical": "Security",
+   "distiContacts": "Disti Contact: Ottawa.Sales@ingrammicro.ca\nEscalation 1: Braedan.moffat@ingrammicro.com\nEscalation 2: bertin.trudel@ingrammicro.com",
+   "growth": "",
+   "notes": "Contribution hub has our revenue, certs, etc.  https://www.citplatform.com/partners/Platform/Partner%20Performance%20Dashboard/f9de5c16-3c78-431b-a866-f2a7d5d26877\n08Oct2026 change: Incentives link set; Partner Portal link updated; Program Guide link set; Training link set\n23Oct2026 change: Click Engineer Antoine -> Antoine (Sales + Pre-Sales/Tech Fundamentals 09Oct2026; Sales + Pre-Sales/Tech Applied 12Oct2026; tier-level). Silver training met; Gold needs more people (Sales Fund x4, Sales Applied x2, Pre-Sales Fund x2) + bookings. Expiry added: Fundamentals 09Oct2027, Applied 12Oct2027.",
+   "vdate": "2026-10-08",
+   "vstate": "success"
+  },
+  {
+   "name": "Splunk",
+   "status": "Associate",
+   "tier": null,
+   "pid": "",
+   "vehicles": [
+    "CSPV - Network Security"
+   ],
+   "links": {
+    "Partner Portal": "https://splunk.my.site.com/partner/s/",
+    "Program Guide": "https://www.splunk.com/en_us/pdfs/partners/new-partnerverse-program-overview-2025.pdf",
+    "Training": "https://www.splunk.com/en_us/training.html",
+    "Incentives": "https://splunk.my.site.com/partner/s/content-library?c__file=partnerverse-market-development-funds-incentive-guide",
+    "Deal Reg": "https://splunk.my.site.com/partner/s/prm/deals-overview",
+    "Sales Tools": "https://splunk.my.site.com/partner/s/prm/sales-tools",
+    "Marketing Campaigns": "https://splunk.my.site.com/partner/s/prm/marketing-overview",
+    "Website": "http://www.splunk.com/"
+   },
+   "competitors": [
+    "IBM",
+    "LogRhythm",
+    "Elastic (Elasticsearch)",
+    "SolarWinds",
+    "Sumo Logic",
+    "Micro Focus",
+    "FireEye (Trellix)",
+    "Datadog",
+    "McAfee",
+    "LogDNA"
+   ],
+   "distis": [
+    "TD SYNNEX",
+    "Carahsoft"
+   ],
+   "contacts": "21Oct2026 Now Sarah Bricombe(spelling?)\nErika Polidori\nShe/Her Regional Sales Manager\nSplunk Inc.\n+1 (613) 296-2882  |  epolidori@splunk.com \nNEW: epolidor@cisco.com \nOttawa | AMER |",
+   "engineers": [
+    "Antoine (Splunk Accredited Technical Selling Foundations - Partner, 09Oct2026; Splunk Accredited Sales Rep I, 12Oct2026)"
+   ],
+   "vertical": "Security",
+   "distiContacts": "Disti Contact: Erica.McFee@Carahsoft.com \nEscalation 1: Martin.Frishe@Carahsoft.com\nEscalation 2: N/A",
+   "growth": "",
+   "notes": "Partner General Terms (PGT) Agreement: Completed on - 11/14/2022\n08Oct2026 change: Program Guide link updated; Training link set\n08Oct2026 change: Distributor (empty) -> Carahsoft Canada; partner community read, level not displayed; Jody Accredited Technical Selling Foundations expired 06Oct2026\n09Oct2026 change: Antoine Diening passed Splunk Accredited Technical Selling Foundations (Partner), issued 09Oct2026; cert in Technology Partners/Splunk/certs\n12Oct2026 change: Antoine Diening passed Splunk Accredited Sales Rep I (4200/4800), issued 12Oct2026; cert in Technology Partners/Splunk/certs\n19Oct2026 change: Click Engineer += Antoine (Splunk Accredited Technical Selling Foundations - Partner, issued 09Oct2026)\n23Oct2026 change: Click Engineer += Splunk Accredited Sales Rep I (tier-level, Sell Foundational Enablement). Remaining: 1 more person with Sales Rep I",
+   "vdate": "2026-10-19",
+   "vstate": "success"
+  },
+  {
+   "name": "Sailpoint",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://sailpoint.highspot.com/signin",
+    "Program Guide": "https://www.sailpoint.com/partners/become-partner",
+    "Training": "https://www.sailpoint.com/university"
+   },
+   "competitors": [
+    "Okta",
+    "Opentext (NetIQ)",
+    "Oracle",
+    "IBM",
+    "Thales"
+   ],
+   "distis": [],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Partner Portal link set; Program Guide link set; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "pending"
+  },
+  {
+   "name": "Simspace",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Program Guide": "https://simspace.com/partners/"
+   },
+   "competitors": [],
+   "distis": [],
+   "contacts": "",
+   "engineers": [
+    "Antoine",
+    "Jody"
+   ],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Program Guide link set\n08Oct2026 change: Click Engineer (empty) -> Antoine Jody (SimSpace Associate Range Engineer course Jun2023)",
+   "vdate": "2026-10-08",
+   "vstate": "pending"
+  },
+  {
+   "name": "Tanium",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://partners.tanium.com/",
+    "Program Guide": "https://www.tanium.com/partners/become-a-partner",
+    "Training": "https://partners.tanium.com/"
+   },
+   "competitors": [
+    "SentinelOne",
+    "CrowdStrike Falcon",
+    "Trend Micro",
+    "Microsoft",
+    "Palo Alto Networks",
+    "Cybereason",
+    "Cynet",
+    "Cisco",
+    "Absolute Software",
+    "GoSecure"
+   ],
+   "distis": [
+    "Arrow"
+   ],
+   "contacts": "",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "Disti Contact:  Taniumsales@arrow.com / ETG SALES \nEscalation 1: karl.koehn@arrow.com \nEscalation 2: Jamie.grossi@arrow.com",
+   "growth": "",
+   "notes": "08Oct2026 change: Partner Portal link set; Program Guide link set; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "pending"
+  },
+  {
+   "name": "Tenable (Nessus)",
+   "status": "Gold",
+   "tier": 1,
+   "pid": "10451",
+   "vehicles": [
+    "CSPV - Infrastructure Security"
+   ],
+   "links": {
+    "Partner Portal": "https://partners.tenable.com/s/",
+    "Program Guide": "https://www.tenable.com/partners/channel-partner-program",
+    "Training": "https://university.tenable.com/partners",
+    "Incentives": "https://www.tenable.com/partners/channel-partner-program",
+    "Deal Reg": "https://partners.tenable.com/",
+    "Sales Tools": "https://partners.tenable.com/",
+    "Battle Cards": "https://partners.tenable.com/",
+    "Marketing Campaigns": "https://partners.tenable.com/",
+    "Misc. Link 1": "https://partners.tenable.com/",
+    "Misc. Link 2": "https://static.tenable.com/marketing/partners/Datasheet_Deal_Registration.pdf?ext=0",
+    "Website": "http://www.tenable.com/"
+   },
+   "competitors": [
+    "Rapid7",
+    "Qualys",
+    "CrowdStrike",
+    "Microsoft",
+    "BeyondTrust",
+    "WithSecure",
+    "Aurea SMB Solutions (GFI Software)",
+    "Greenbone Networks",
+    "ManageEngine",
+    "Arctic Wolf Networks",
+    "Cisco Systems",
+    "Secureworks"
+   ],
+   "distis": [
+    "Ingram Micro"
+   ],
+   "contacts": "Nigel Woolvett nwoolvett@tenable.com                         905-599-6909",
+   "engineers": [
+    "Arjun",
+    "Antoine (Sales + SE: Tenable One, Identity Exposure, Nessus/Nessus Expert, OT, Attack Surface Mgmt, Vulnerability Mgmt; Cloud Security SE; exp 25Sep2027, VM + Cloud SE 26Sep2027)",
+    "Jamie"
+   ],
+   "vertical": "Security",
+   "distiContacts": "Disti Contact: Ottawa.Sales@ingrammicro.ca\nEscalation 1: Braedan.moffat@ingrammicro.com\nEscalation 2: bertin.trudel@ingrammicro.com",
+   "growth": "",
+   "notes": "We are listed as Bronze but should be Silver.\nPartner ID: 10451\n08Oct2026 change: Incentives link set; Partner ID (empty) -> 10451; Partner Portal link updated; Program Guide link updated; Status Bronze -> Gold; Training link set\n08Oct2026 change: Click Engineer Arjun Antoine -> Arjun Antoine Jamie; portal shows 0 Education Achievements (certs not credited to Click) - ask Nigel Woolvett; Jamie's certs expire Nov/Dec 2026\n23Oct2026 change: Click Engineer Antoine -> Antoine (13 Tenable Sales/SE certs 25-26Sep2026 + 5 Exposure Management test-out exams 01Oct2026; tier-level). Not yet credited in partner portal. Expiry added: 25Sep2027 (VM + Cloud SE 26Sep2027).",
+   "vdate": "2026-10-08",
+   "vstate": "success"
+  },
+  {
+   "name": "Thales",
+   "status": "Enrolled",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://partners.cpl.thalesgroup.com/",
+    "Program Guide": "https://cpl.thalesgroup.com/partners/reseller-partners",
+    "Training": "https://partners.cpl.thalesgroup.com/explore/2744343"
+   },
+   "competitors": [
+    "Sailpoint",
+    "Opentext (NetIQ)",
+    "Oracle",
+    "IBM",
+    "Thales"
+   ],
+   "distis": [],
+   "contacts": "Alain BONNEVILLE\n\nRegional Sales Manager – Eastern Canada\n\nCyber Security Products\nM: (613) 698-8026\nalain-a.bonneville@thalesgroup.com",
+   "engineers": [
+    "Antoine (Thales TPA + SPA General Purpose HSM; TPA + SPA Workforce IAM; TPA + SPA Customer IAM; TPA + SPA IAM Devices; TPA + SPA Payment HSM; TPA + SPA CDSP; TPA + SPA HSE; TPA DDoS for Networks; SPA DDoS for Networks; TPA + SPA App Security Platform; TPA + SPA WAF Gateway; TPA + SPA API Security; TPA + SPA Data Security Fabric)"
+   ],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Partner Portal link set; Program Guide link set; Training link set\n19Oct2026 verified: Thales Accelerate + Partner University (Allego) login OK; Enrolled Reseller\n20Oct2026 change: Click Engineer (empty) -> Antoine (Thales TPA + SPA General Purpose HSM) (TPA + SPA General Purpose HSM accreditations issued 20Oct2026)\n20Oct2026 change: Click Engineer += TPA Workforce IAM (Technical Pre-Sales Accreditation – Workforce IAM issued 20Oct2026)\n20Oct2026 change: Click Engineer += SPA Workforce IAM (Sales Professional Accreditation, quiz 80%, cert issued 20Oct2026)\n20Oct2026 change: Click Engineer += TPA Customer IAM (Technical Pre-Sales Accreditation - Customer IAM (CIAM), cert issued 20Oct2026)\n20Oct2026 change: Click Engineer += TPA IAM Devices (Technical Professional Accreditation - Identity & Access Management Devices, Allego cert 20Oct2026)\n20Oct2026 change: Click Engineer += SPA Customer IAM (Sales Professional Accreditation - Customer IAM (CIAM), quiz 100%, cert issued 20Oct2026)\n20Oct2026 change: Click Engineer += TPA Payment HSM (Technical Pre-Sales Accreditation - Payment Hardware Security Module (HSM), quiz 82%, Allego cert 20Oct2026)\n20Oct2026 change: Click Engineer += SPA IAM Devices (Sales Professional Accreditation - Identity & Access Management Devices, 24/24 in-video questions, Allego cert 20Oct2026)\n20Oct2026 change: Click Engineer += SPA Payment HSM (Sales Professional Accreditation – Payment Hardware Security Module (HSM), quiz 100%, Allego cert 20Oct2026)\n20Oct2026 change: Click Engineer += TPA + SPA CDSP (Technical Pre-Sales + Sales Professional Accreditation - CipherTrust Data Security Platform (CDSP), quiz TPA 100% / SPA 90%, Allego certs 20Oct2026)\n21Oct2026 change: Click Engineer += TPA HSE (Technical Pre-Sales Accreditation - High Speed Encryption (HSE), quiz 80%, Allego cert 21Oct2026)\n21Oct2026 change: Click Engineer += SPA HSE (Sales Professional Accreditation - High Speed Encryption (HSE), quiz 91%, Allego cert 21Oct2026)\n21Oct2026 change: Click Engineer += TPA DDoS for Networks (Technical Pre-Sales Accreditation - DDoS Protection for Networks, quiz 10/11, Allego cert 21Oct2026)\n21Oct2026 verified: Partner portal onboarding (4 steps) completed; Compliance Training (Thales Anti-corruption training) badge earned 20Oct2026\n21Oct2026 change: Click Engineer += SPA DDoS for Networks (Sales Professional Accreditation - DDoS Protection for Networks, quiz 100%, Allego cert 21Oct2026)\n21Oct2026 change: Click Engineer += TPA App Security Platform (Technical Pre-Sales Accreditation - Application Security Platform, WAAP quizzes 100% + 9/10, Allego cert 21Oct2026)\n21Oct2026 change: Click Engineer += SPA App Security Platform (Sales Professional Accreditation - Application Security Platform, quiz 100%, Allego cert 21Oct2026)\n21Oct2026 change: Click Engineer += TPA WAF Gateway (Technical Pre-Sales Accreditation - WAF Gateway, final quiz 10/10, Allego cert 21Oct2026)\n21Oct2026 change: Click Engineer += SPA WAF Gateway (Sales Professional Accreditation - WAF Gateway, final quiz 100%, Allego cert 21Oct2026)\n22Oct2026 change: Click Engineer += TPA API Security (Technical Pre-Sales Accreditation - API Security, final quiz 10/10, Allego cert 22Oct2026)\n22Oct2026 change: Click Engineer += SPA API Security (Sales Professional Accreditation - API Security, SPA - API Security 2027 course, all quizzes 100%, Allego cert 22Oct2026)\n22Oct2026 change: Click Engineer += TPA Data Security Fabric (Technical Pre-Sales Accreditation - DSF (Data Security Fabric), final quiz 10/10, Allego cert 22Oct2026)\n22Oct2026 change: Click Engineer += SPA Data Security Fabric (Sales Professional Accreditation - DSF (Data Security Fabric), quiz 100%, Allego cert 22Oct2026)",
+   "vdate": "2026-10-21",
+   "vstate": "success"
+  },
+  {
+   "name": "Trellix",
+   "status": "Platinum",
+   "tier": null,
+   "pid": "",
+   "vehicles": [
+    "OECM"
+   ],
+   "links": {
+    "Partner Portal": "https://partners.trellix.com/partner/en-us/solution-provider/home.html",
+    "Program Guide": "https://partners.trellix.com/partner/en-us/assets/guides/xtend-global-partner-program-guide.pdf",
+    "Training": "https://academy.trellix.com/",
+    "Deal Reg": "https://trellix.my.site.com/partnercentral/s/createrecord/Register_New_Deal"
+   },
+   "competitors": [
+    "Trend Micro",
+    "Check Point Software Technologies",
+    "Fortinet",
+    "Forcepoint",
+    "Proofpoint",
+    "Broadcom",
+    "SonicWall",
+    "WatchGuard"
+   ],
+   "distis": [
+    "Ingram Micro"
+   ],
+   "contacts": "",
+   "engineers": [
+    "Antoine (Endpoint Security Technical Specialist)"
+   ],
+   "vertical": "",
+   "distiContacts": "Disti Contact: Ottawa.Sales@ingrammicro.ca\nEscalation 1: Braedan.moffat@ingrammicro.com\nEscalation 2: bertin.trudel@ingrammicro.com",
+   "growth": "Platinum, Solution Provider; Total Contract Value YTD USD 7.23M (portal 08Oct2026)",
+   "notes": "08Oct2026 change: Partner Portal link updated; Training link set\n08Oct2026 change: Growth Opportunity (empty) -> Platinum, Solution Provider; TCV YTD USD 7.23M (Trellix partner portal)\n23Oct2026 change: Click Engineer Antoine -> Antoine (Endpoint Security Technical Specialist, 25Sep2026; tier-level, Platinum Technical Specialist set)",
+   "vdate": null,
+   "vstate": "open"
+  },
+  {
+   "name": "Tufin",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [
+    "OECM",
+    "CSPV - Infrastructure Security"
+   ],
+   "links": {
+    "Partner Portal": "https://portal.tufin.com/s/login/",
+    "Program Guide": "https://www.tufin.com/partners/channel-partners",
+    "Training": "https://www.tufin.com/training"
+   },
+   "competitors": [
+    "AlgoSec",
+    "FireMon",
+    "Skybox Security",
+    "RedSeal",
+    "Check Point Software Technologies",
+    "Lacework",
+    "Google Cloud Platform",
+    "CyberArk",
+    "Cisco Secure Workload",
+    "Illumio"
+   ],
+   "distis": [],
+   "contacts": "Moni Assii\n613-983-8580 - GRC\nmoni.assi@tufin.com \nSales Director, Canada\n\nChris Dulin\nSr. Channel Sales Manager\n703-856-7675\nChris.Dulin@Tufin.com",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Partner Portal link set; Program Guide link set; Training link set",
+   "vdate": "2026-10-08",
+   "vstate": "login-issue"
+  },
+  {
+   "name": "Vectra AI",
+   "status": "Reseller (no tier assigned)",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://partners.vectra.ai/",
+    "Program Guide": "https://partners.vectra.ai/File/Doc/635",
+    "Training": "https://www.vectra.ai/customers/training",
+    "Incentives": "https://www.vectra.ai/partners/channel-partners-and-distributors"
+   },
+   "competitors": [],
+   "distis": [
+    "TD SYNNEX"
+   ],
+   "contacts": "Madison Macdonald, Regional Partner Manager, mmacdonald@vectra.ai",
+   "engineers": [],
+   "vertical": "Security",
+   "distiContacts": "Disti Contact: secsalesca@tdsynnex.com\nEscalation 1: Sherianne.Forrester@tdsynnex.com\nEscalation 2: charles-andre.gladu@tdsynnex.com",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner Portal link set; Program Guide link set; Status Registered -> Reseller (no tier assigned); Training link set; Vendor Vecrta -> Vectra AI; Vendor Contacts (empty) -> Madison Macdonald, Regional Partner Manager, mmacdonald@vectra.ai",
+   "vdate": "2026-10-08",
+   "vstate": "success"
+  },
+  {
+   "name": "Varonis",
+   "status": "Registered",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://my.varonis.com/Login",
+    "Program Guide": "https://www.varonis.com/hubfs/Web%20Assets/Website_Reboot/Partners/varonis-partner-program.pdf",
+    "Training": "https://help.varonis.com/s/partner-training-faq",
+    "Incentives": "https://www.varonis.com/hubfs/Web%20Assets/Website_Reboot/Partners/varonis-partner-program.pdf",
+    "Deal Reg": "https://help.varonis.com/s/deal-registration"
+   },
+   "competitors": [],
+   "distis": [],
+   "contacts": "partner-portal@varonis.com",
+   "engineers": [],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Partner Portal link updated; Program Guide link updated",
+   "vdate": "2026-10-08",
+   "vstate": "julie to verify"
+  },
+  {
+   "name": "Zscaler",
+   "status": "Registered",
+   "tier": null,
+   "pid": "",
+   "vehicles": [
+    "OECM"
+   ],
+   "links": {
+    "Partner Portal": "https://partners.zscaler.com/s/",
+    "Program Guide": "https://www.zscaler.com/partners/resellers",
+    "Training": "https://partneracademy.zscaler.com/",
+    "Incentives": "https://www.zscaler.com/partners/resellers",
+    "Deal Reg": "https://partners.zscaler.com/s/dealregistration",
+    "Sales Tools": "https://partners.zscaler.com/s/assetlibrary?defaultFieldValues=All",
+    "Website": "https://www.zscaler.com/demo/identity-threat-detection?_bt=&_bk=zscaler%20identity%20threat%20detection%20and%20response&_bm=b&_bn=o&_bg=1322714848779977&utm_source=bing&utm_medium=cpc&utm_campaign=itdr&msclkid=ba749ac388d01c731900fd93e55a8dbb"
+   },
+   "competitors": [
+    "Netskope",
+    "Cisco Systems",
+    "Cloudflare",
+    "Palo Alto Networks",
+    "Fortinet",
+    "Forcepoint",
+    "Microsoft",
+    "Check Point Software Technologies",
+    "Proofpoint",
+    "Trend Micro"
+   ],
+   "distis": [
+    "TD SYNNEX"
+   ],
+   "contacts": "Justin Lee\nPartner Business Manager\n604.837.3338                                      justin.lee@zscaler.com",
+   "engineers": [
+    "Jamie",
+    "Antoine"
+   ],
+   "vertical": "Security",
+   "distiContacts": "Disti Contact: secsalesca@tdsynnex.com\nEscalation 1: Sherianne.Forrester@tdsynnex.com\nEscalation 2: charles-andre.gladu@tdsynnex.com",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Program Guide link set; Training link set\n08Oct2026 change: Click Engineer Jamie -> Jamie Antoine (ZTA + ZCSE to 26Sep2029); new Zscaler Summit Partner Program effective 23Sep2026",
+   "vdate": "2026-10-08",
+   "vstate": "success"
+  },
+  {
+   "name": "Yubico",
+   "status": "",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Program Guide": "https://resources.yubico.com/53ZDUYE6/at/6pqb5q59fc3b8852fmrjnx4/Yubico_YubiNation_Partner_Program_Brief.pdf",
+    "Training": "https://yubico-academy.workramp.io/login",
+    "Incentives": "https://www.yubico.com/support/become-a-partner/"
+   },
+   "competitors": [
+    "BIO-key International, Inc.",
+    "GoTrustID Inc.",
+    "Deepnet Security",
+    "Utimaco",
+    "Cisco Duo",
+    "RSA SecureID",
+    "Google Authenticator"
+   ],
+   "distis": [
+    "Arrow",
+    "Ingram Micro"
+   ],
+   "contacts": "Chris Lederer                             Director of Sales             416.727.1971 chris.lederer@yubico.com",
+   "engineers": [
+    "Antoine (Yubico 100 Essentials, 200 Sales, 300 Technical Sales; exp 20Oct2027)"
+   ],
+   "vertical": "",
+   "distiContacts": "Disti Contact:  a10sales@arrow.com \nEscalation 1: Brandon Gerling\nEscalation 2: Natasha Wickie",
+   "growth": "",
+   "notes": "08Oct2026 change: Incentives link set; Program Guide link set; Training link set\n08Oct2026 change: Distributor (empty) -> Arrow Electronics; Ingram Micro (Yubico partner locator)\n19Oct2026 change: Click Engineer (empty) -> Antoine (Yubico 100 Essentials, 200 Sales, 300 Technical Sales; certs dated 20Oct2026, exp 20Oct2027)\n23Oct2026 change: Click Engineer += expiry (exp 20Oct2027)",
+   "vdate": "2026-10-19",
+   "vstate": "success"
+  },
+  {
+   "name": "Ribbon",
+   "status": "Bronze",
+   "tier": null,
+   "pid": "",
+   "vehicles": [],
+   "links": {
+    "Partner Portal": "https://rbbn.my.site.com/Partners",
+    "Training": "https://academy.ribboncommunications.com/learn",
+    "Support URL": "https://rbbn.my.site.com/Support",
+    "Website": "https://www.rbbn.com"
+   },
+   "competitors": [],
+   "distis": [],
+   "contacts": "",
+   "engineers": [
+    "Antoine (SBCC200, RA200, AS200, TES200, EMV200, RE8K200, PSX200, SBCE200, G5200, IPO200; exp 06Nov2028 to 13Nov2028)"
+   ],
+   "vertical": "",
+   "distiContacts": "",
+   "growth": "",
+   "notes": "11Nov2026 change: new row; Status (empty) -> Bronze; Click Engineer (empty) -> Antoine (SBCC200, RA200, AS200, TES200). Remaining for Bronze: Sales + SE e-learning from a 2nd person per resold portfolio within 60 days.\n14Nov2026 change: Click Engineer += EMV200, RE8K200, PSX200, SBCE200, G5200 (exp 06Nov2028 to 13Nov2028); certs in Technology Partners/Ribbon/Certs\n14Nov2026 change: Click Engineer += IPO200 (IP Optical Sales and SE Certification, exam 100%, exp 13Nov2028); cert in Technology Partners/Ribbon/Certs",
+   "vdate": "2026-11-14",
+   "vstate": "success"
+  }
+ ],
+ "w": [
+  {
+   "name": "Exabeam",
+   "reason": "East / West",
+   "tech": "SIEM"
+  },
+  {
+   "name": "i4Ops",
+   "reason": "East / West",
+   "tech": ""
+  },
+  {
+   "name": "Elastic",
+   "reason": "GC",
+   "tech": ""
+  },
+  {
+   "name": "Netwrix",
+   "reason": "West",
+   "tech": ""
+  }
+ ]
+}
